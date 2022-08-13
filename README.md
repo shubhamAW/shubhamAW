@@ -11,5 +11,5 @@
 ### Leetcode Profile [link](https://leetcode.com/waykarshubham/)
 
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=waykarshubham" width="400" &theme="dark"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=waykarshubham" width="400" theme="dark"/>
 </a>
