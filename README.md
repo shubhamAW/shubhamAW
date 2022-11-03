@@ -10,6 +10,6 @@
 
 ### Leetcode Profile [(🔗link)](https://leetcode.com/waykarshubham/)
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
+
   [![shubham's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=waykarshubham&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-</a>
+
